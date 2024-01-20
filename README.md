@@ -26,6 +26,6 @@ Art Design Cheat Sheet - https://docs.google.com/document/d/16Qhj6viOwbGOcGVLJOM
  - Rat/Pepper has Leaf
  - Dog/Chia has Whistle
  - **Missing**
- - Bear
- - Pigeon
+ - Bear/Banjo needs Scar
+ - Pigeon needs top hat or claw tag
    
