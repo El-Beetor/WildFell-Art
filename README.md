@@ -3,7 +3,10 @@ Blend files and models for WildFell
 
 Art Design Cheat Sheet - https://docs.google.com/document/d/16Qhj6viOwbGOcGVLJOMRl4Caz32CVHbtdS23Yv0Sp54/edit
 
-Naming Convection - animtionType_AnimalType ex: idle_Dog
+Naming Convention - animtionType_AnimalType ex: idle_Dog
+Animation Convention - Make all idle animations about the same length 60frames
+Add features after the animation base model
+Unique model name should be baseAnimalType_MainCharacterName
 
 # All Animal Model
  - Rat
