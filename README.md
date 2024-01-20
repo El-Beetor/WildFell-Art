@@ -3,6 +3,8 @@ Blend files and models for WildFell
 
 Art Design Cheat Sheet - https://docs.google.com/document/d/16Qhj6viOwbGOcGVLJOMRl4Caz32CVHbtdS23Yv0Sp54/edit
 
+Naming Convection - animtionType_AnimalType ex: idle_Dog
+
 # All Animal Model
  - Rat
  - Bear
