@@ -3,7 +3,7 @@ Blend files and models for WildFell
 
 Art Design Cheat Sheet - https://docs.google.com/document/d/16Qhj6viOwbGOcGVLJOMRl4Caz32CVHbtdS23Yv0Sp54/edit
 
-Naming Convention - animtionType_AnimalType_framCount ex: idle_Dog_140
+Naming Convention - AnimalType_animtionType_framCount ex: idle_Dog_140
 Animation Convention - Make all idle animations about the same length 150frames
 Add features after the animation base model
 Unique model name should be baseAnimalType_MainCharacterName
