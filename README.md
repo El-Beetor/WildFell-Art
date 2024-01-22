@@ -21,7 +21,7 @@ Art Design Cheat Sheet - https://docs.google.com/document/d/16Qhj6viOwbGOcGVLJOM
 - - BaseAnimalType: As in animation convention
 - - MainCharacterName: Camel case, unique across models
  
-## Animation Conventions
+# Animation Conventions
 
  - Idle Animations: Aim for approximately 150 frames (flexible within 30%)
 ## Model Structure
