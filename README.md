@@ -34,6 +34,7 @@ Art Design Cheat Sheet - https://docs.google.com/document/d/16Qhj6viOwbGOcGVLJOM
 - Versioning: Consider adding version numbers for animations (e.g., idle_Dog_140_v2).
 - File Organization: Structure files to reflect naming conventions.
 - Documentation: Document these conventions for team reference.
+- 
 # Characters With Rigs
  - RAT
  - Bear
@@ -44,10 +45,10 @@ Art Design Cheat Sheet - https://docs.google.com/document/d/16Qhj6viOwbGOcGVLJOM
    
 # Characters With Idle Animations
  - Rat
- - Dog
+ - Pigeon
  - **Missing**
  - Bear
- - Pigeon
+ - Dog
    
 # Main Characters  Unique Models
  - Rat/Pepper has Leaf
@@ -57,11 +58,11 @@ Art Design Cheat Sheet - https://docs.google.com/document/d/16Qhj6viOwbGOcGVLJOM
  - Pigeon needs top hat or claw tag
 
 # Characters With Congratulatory Animation
- - Rat/Pepper - Dance
  - Dog/Chia - Jump
- - Pigeon 
  - **Missing**
  - Bear
+ - Pigeon
+ - Rat/Pepper - Dance
 
 # Animal Models
 
