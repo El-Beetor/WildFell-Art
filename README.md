@@ -63,7 +63,7 @@ Art Design Cheat Sheet - https://docs.google.com/document/d/16Qhj6viOwbGOcGVLJOM
  - **Missing**
  - Bear
 
-   ## Animal Models
+# Animal Models
 
 * Rat
 * Bear
